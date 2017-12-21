@@ -1,6 +1,6 @@
 # Preliminary Analysis of Restaurant Recommendation System
 
-#### Authors:
+**Authors:**
 * Ahluwalia, Sukraat 
 * Huang, Shih-Ting 
 * Jin, Guangze 
