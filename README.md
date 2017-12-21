@@ -11,4 +11,4 @@ We explored the [Yelp Open dataset](https://www.yelp.com/dataset). Using the dat
 
 
 ## Poster
-![Poster](Poster.pdf)
+![Poster](https://github.com/HSTing/Preliminary-Analysis-of-Restaurant-Recommendation-System/Poster.pdf)
