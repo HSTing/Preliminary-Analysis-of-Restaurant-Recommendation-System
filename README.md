@@ -18,6 +18,7 @@ We explored the [Yelp Open dataset](https://www.yelp.com/dataset). Using the dat
 ![cor](Rplot_rest_cor.png)
 
 
+
 ### Predicting model results
 
 | Algorithm | Training | Validation | Testing |
@@ -25,6 +26,7 @@ We explored the [Yelp Open dataset](https://www.yelp.com/dataset). Using the dat
 | Decision Tree | 14.6% | 14.3% | 13.9%|
 | Random Forest | 13.2% | 13.8% | 14.6% |
 | SVM | 13.6% | 13.2% | 14.7%|
+
 
 
 ### User clustering 
