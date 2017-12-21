@@ -13,11 +13,12 @@ We explored the [Yelp Open dataset](https://www.yelp.com/dataset). Using the dat
 
 ## Analysis
 
-* Correlation matrix between all attributes.
+### Correlation matrix between all attributes.
 
 ![cor](Rplot_rest_cor.png)
 
-* Predicting model results
+
+### Predicting model results
 
 | Algorithm | Training | Validation | Testing |
 | :---:  | :---: | :---: | :---: |
@@ -25,4 +26,7 @@ We explored the [Yelp Open dataset](https://www.yelp.com/dataset). Using the dat
 | Random Forest | 13.2% | 13.8% | 14.6% |
 | SVM | 13.6% | 13.2% | 14.7%|
 
-* User clustering 
+
+### User clustering 
+
+![kmeans](kmeans.png)
