@@ -29,6 +29,6 @@ We explored the [Yelp Open dataset](https://www.yelp.com/dataset). Using the dat
 
 
 
-### User clustering 
+### User clustering (K-means)
 
 ![kmeans](kmeans.png)
